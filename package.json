@@ -1,0 +1,16 @@
+{
+  "name": "markdown-it-kifviewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tkgstrator/markdown-it-kifviewer",
+  "author": "devonly <nasawake.am@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.15.6",
+    "vuepress": "^2.0.0-beta.22"
+  }
+}
