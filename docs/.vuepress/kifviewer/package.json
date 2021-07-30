@@ -1,0 +1,33 @@
+{
+    "name": "markdown-kifviewer",
+    "version": "1.0.0",
+    "description": "For embedding kifviewr in markdown.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tkgstrator/markdown-it-kifviewer.git"
+    },
+    "keywords": [
+        "KifViewer",
+        "Shogi",
+        "Chess",
+        "markdown-it",
+        "markdown-it-plugin"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "markdown-it": "8.4.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "author": "Asano Kazuna <nasawake.am@gmail.com> (https://twitter.com/tkgling)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tkgstrator/markdown-it-kifviewer/issues"
+    },
+    "homepage": "https://github.com/tkgstrator/markdown-it-kifviewer#readme"
+}
