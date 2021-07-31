@@ -7,5 +7,5 @@ module.exports = {
       permalink: false,
     },
   },
-  plugins: [[require("./kifviewer/index.js")]],
+  plugins: [require("./markdown-it-kifviewer/index.js")],
 };

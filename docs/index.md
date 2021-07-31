@@ -1,5 +1,3 @@
-# KifViewer for Vuepress
+@[kif]()
 
-## KifViewer
-
-@[kif](KIF URL)
+Hello World! :fa-flag:
